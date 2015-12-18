@@ -10,5 +10,5 @@ The following steps should help you get started::
     git clone git@github.com:iwlearn/drin2.git .
     virtualenv .
     ./bin/pip install zc.buildout==2.4.3
-    ./bin/buildout -N -c drin2/develop.cfg
+    ./bin/buildout -N -c develop.cfg
 
